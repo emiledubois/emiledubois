@@ -2,20 +2,14 @@
 
 I'm emiledubois, a software engineer student based in Chile.
 
-I mostly upload my class projects here - Spring Boot, React and CI/CD stuff.
+I mostly upload my class projects here - Spring Boot, React and CI/CD.
 
+Since last year I've been only using GNU/Linux machines for my projects!
+________________________________________________________________________________
 
-<!--
-**emiledubois/emiledubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola soy emiledubois, un estudiante de ingeniería en informática con mención en desarrollo de software en Chile.
 
-Here are some ideas to get you started:
+Aquí subo la mayoría de mis proyectos que he hecho en clases - con Spring Boot, React y CI/CD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desde el año pasado comencé a utilizar por completo computadoras con GNU/Linux para mis estudios! 
+
