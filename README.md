@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 
+
+I'm emiledubois, a software engineer student based in Chile.
+
+I mostly upload my class projects here - Spring Boot, React and CI/CD stuff.
+
 
 <!--
 **emiledubois/emiledubois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
