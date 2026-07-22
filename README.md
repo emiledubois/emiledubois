@@ -1,4 +1,4 @@
-## Hi :cherry_blossom: :cherry_blossom: :cherry_blossom:
+## :cherry_blossom: :cherry_blossom: :cherry_blossom:
 
 I'm emiledubois, a software engineer student based in Chile.
 
