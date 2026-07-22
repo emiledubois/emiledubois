@@ -1,6 +1,6 @@
 ## :cherry_blossom: :cherry_blossom: :cherry_blossom:
 
-I'm emiledubois, a software engineer student based in Chile.
+Hey I'm emiledubois, a software engineer student based in Chile.
 
 I mostly upload my class projects here - Spring Boot, React and CI/CD.
 
