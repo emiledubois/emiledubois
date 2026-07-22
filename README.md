@@ -1,4 +1,4 @@
-## Hi 
+## Hi :cherry_blossom: :cherry_blossom: :cherry_blossom:
 
 I'm emiledubois, a software engineer student based in Chile.
 
@@ -11,5 +11,6 @@ Hola soy emiledubois, un estudiante de ingeniería en informática con mención 
 
 Aquí subo la mayoría de mis proyectos que he hecho en clases - con Spring Boot, React y CI/CD.
 
-Desde el año pasado comencé a utilizar por completo computadoras con GNU/Linux para mis estudios! 
+Desde el año pasado comencé a utilizar por completo computadoras con GNU/Linux para mis proyectos! 
 
+## :cherry_blossom: :cherry_blossom: :cherry_blossom:
